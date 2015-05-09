@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.7",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Echo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OculusRift",
+			"Enabled": false
+		},
+		{
+			"Name": "GearVR",
+			"Enabled": true
+		}
+	]
+}
