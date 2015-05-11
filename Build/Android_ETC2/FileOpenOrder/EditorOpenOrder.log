@@ -356,392 +356,471 @@
 "../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 356
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 357
 "../../../Engine/Content/EngineResources/DefaultTexture.uasset" 358
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 359
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 360
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 361
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 362
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 363
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 364
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 365
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 366
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 367
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 368
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 369
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 370
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 371
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 372
-"../../../Engine/Content/EngineResources/Black.uasset" 373
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 374
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 375
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 376
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 377
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 378
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 379
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 380
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 381
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 382
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 383
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 384
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 385
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 386
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 387
-"../../../Engine/Content/EngineSounds/Master.uasset" 388
-"../../../Engine/Content/EngineSounds/Music.uasset" 389
-"../../../Engine/Content/EngineSounds/SFX.uasset" 390
-"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 391
-"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 392
-"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 393
-"../../../Engine/Content/EngineSounds/Voice.uasset" 394
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 395
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 396
-"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 397
-"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 398
-"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 399
-"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 400
-"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 401
-"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 402
-"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 403
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 404
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 405
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 406
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 407
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 408
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 409
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/FirstPersonCharacter.uasset" 410
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Character/FirstPersonAnimBlueprint.uasset" 411
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonIdle.uasset" 412
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Character/FirstPersonSkeleton.uasset" 413
-"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 414
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonJumpEnd.uasset" 415
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonJumpLoop.uasset" 416
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonJumpStart.uasset" 417
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonRun.uasset" 418
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 419
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 420
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonFire.uasset" 421
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/FirstPersonProjectile.uasset" 422
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 423
-"../../../Engine/Content/TemplateResources/MI_Template_BaseOrange.uasset" 424
-"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 425
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 426
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Character/FirstPersonSkeletalMesh.uasset" 427
-"../../../Engine/Content/TemplateResources/MI_Template_BaseBlue.uasset" 428
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 429
-"C:/Users/Luke/AppData/Local/UnrealEngine/4.7/Saved/Config/Windows/SourceControlSettings.ini" 430
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 431
-"C:/Users/Luke/Documents/Unreal Projects/Echo/Saved/Config/Windows/SourceControlSettings.ini" 432
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 433
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 434
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 435
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 436
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 437
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 438
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 439
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 440
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 441
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 442
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 443
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 444
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 445
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Intermediate/CachedAssetRegistry.bin" 446
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Maps/MobileWorld.umap" 447
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/landscape_with_caves.uasset" 448
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/orb_of_rock.uasset" 449
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/plant_dangles.uasset" 450
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_spike.uasset" 451
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 452
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 453
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 454
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 455
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 456
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_8EDAF7A54E378800FEB217863433__EF844CD96BCD8DD3CD322C340901837CE32294B9.udd" 457
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 458
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 459
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C9D41DBE4C754F8B430E7DBADCD4__FBC3F09CA1A90DBB977C19E11F289F6DA8E49284.udd" 460
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 461
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_F562DDF94D8D885AE92078A9DD77__9B99B77EBFCB5FCC0D965B9310B18285F1DD4F72.udd" 462
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_F562DDF94D8D885AE92078A9DD77__8F3D4E33266EFF7058EA0F5458F2DB999EF18D1A.udd" 463
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 464
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_F562DDF94D8D885AE92078A9DD77__F1C2C5B52830D531E492A366CDA3F03966A50F54.udd" 465
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C9D41DBE4C754F8B430E7DBADCD4__9398548B219CA163F51FBD66F82176FB42C878DC.udd" 466
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_3F3B1DD44FE006226A690596DBDD__CDDF8231DBC7CA950E7B4CE92521AAAD3C48C261.udd" 467
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_3F3B1DD44FE006226A690596DBDD__AEC80EC600DD3B4D042B934602EB4A05F8D19864.udd" 468
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C200B7694C3FE53EBCE97592F5F4__24356533FF26DF1C4B77B90C0BE074BE60CDB93D.udd" 469
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 470
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C49FDA8C4EFE04B87EBA5CB5A57D__6C384D0E34CB7714F51B78E788A07B1275909C23.udd" 471
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 472
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_80A9E59646847B4846ED6DAF42DF__1EA1B961E7D02F34F47CB3F0542A01A4F1F38F75.udd" 473
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 474
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 475
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 476
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_80A9E59646847B4846ED6DAF42DF__2FFB5567760EAF72FA82B851F0323C4F672A3D96.udd" 477
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_D5542AFE4886708885DF42B1BE8F__D59AF11BB152EE04C05F36ECE6FCB0323B09FA86.udd" 478
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 479
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C9D41DBE4C754F8B430E7DBADCD4__47881DE908421552277B42C3471C134DB38B35E7.udd" 480
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_7BBBF743419EE004ACC16E9959BC__C48076D302354E388B255563AFD03D236084E5D1.udd" 481
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_5FF2868842E6DED8A4C0CB821719__B7A0742534CBF48BA77C2C55467606F7BE0BEDAF.udd" 482
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 483
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 484
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_D5542AFE4886708885DF42B1BE8F__8705DA1E1392177A60737C98C00498A42845BC46.udd" 485
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_2E1EE3B14D43A62B84881B8F5AAD__3BECB9B0D3CD725CB38D9A368C01F1F3A307E19A.udd" 486
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 487
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_9F8FBEF84A1997E30FD384955E3D__2735FA59C3AF74B3A6A6AD185CDDDC28525B3322.udd" 488
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_9F8FBEF84A1997E30FD384955E3D__CC3C73A229BD7C4AD7CC4C0ABCC291A0EF2ADF2A.udd" 489
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 490
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_9F8FBEF84A1997E30FD384955E3D__DD6C3F424C5745AB0E2D5FB169978EDA38A4EB16.udd" 491
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_119D9D384F916FB5612DEB85B012__C5062709AC6B3F16557E9761D47082FFDC37C5C2.udd" 492
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_119D9D384F916FB5612DEB85B012__D412CBDCCE74F0DF51B99CA03CD1580221A67BC6.udd" 493
-"../../../Engine/Content/Maps/Entry.umap" 494
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_119D9D384F916FB5612DEB85B012__1B3BB47DC55C45944A7B64985401909895628DB8.udd" 495
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_119D9D384F916FB5612DEB85B012__022DE17DC662685608BF5F0A91B181BE829D9CE0.udd" 496
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 497
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__D7571FED08F115FCACABD05361289305AE5B1AB4.udd" 498
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__989EF2BED8D424D26F7239496D065D847FB1A5D6.udd" 499
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__551DE16F2D262FC6F555740F54750200FBADAB3B.udd" 500
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__F7C205B2FBA3A7547B78E328D349915C72BCEB8F.udd" 501
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_9F8FBEF84A1997E30FD384955E3D__F58F07EC1676E628DA89B19509A7C41661EFFBDC.udd" 502
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__A79723FC70D667EA9605520505516D47A27EFA50.udd" 503
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BatGameMode.uasset" 504
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_FlyingBatPawn.uasset" 505
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_EchoSphere.uasset" 506
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BPI_EchoVisible.uasset" 507
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/MPC_EchoLandscape.uasset" 508
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Crunch5.uasset" 509
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/SC_Music.uasset" 510
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Music_Bed_2.uasset" 511
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Wind_Left.uasset" 512
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Wind_Right.uasset" 513
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/SC_SonarBlip.uasset" 514
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_1.uasset" 515
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_3.uasset" 516
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_4.uasset" 517
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_5.uasset" 518
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_6.uasset" 519
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Wiff_2.uasset" 520
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_Prey.uasset" 521
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_StaticMoth.uasset" 522
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/moth.uasset" 523
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_Emissive2Sided.uasset" 524
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/moth_down.uasset" 525
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_PreyGenerator.uasset" 526
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoWorldObject.uasset" 527
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple.uasset" 528
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 529
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 530
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 531
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 532
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 533
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 534
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 535
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/MF_EchoShaderMobile.uasset" 536
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/MF_NearWallGradient.uasset" 537
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/Broadleaf_Mobile_Atlas_Tex.uasset" 538
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/landscape_collision.uasset" 539
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/pineTreeLOD1.uasset" 540
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoTreeOpaque.uasset" 541
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoTree.uasset" 542
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/MF_EchoTreeShader.uasset" 543
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rocks_foliage.uasset" 544
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_Boulder02.uasset" 545
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_Cliffs.uasset" 546
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_HangingIce02.uasset" 547
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_RockLine.uasset" 548
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_pine.uasset" 549
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_sequia.uasset" 550
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__FCC65084A560AB47CDD367721030910D32FFA75D.udd" 551
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__0DC8FAB449244C250C8B6F18E953E830B6F65DD7.udd" 552
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/4/AUDIO_0002_0000_OGG_0001_C22ECFC343B0A0FEB31F6B809776B683.udd" 553
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__077E5653954699E02093DAA57C627C1D3C5D783C.udd" 554
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__888E4A5C98A2D951AEED305D77AEFDF188E317FC.udd" 555
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__4A894C67E9E5A26FA56AEDF9D9FD1EA3ADF82569.udd" 556
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/AUDIO_0002_0000_OGG_0001_AF5D326043927D3F55C48285679849BF.udd" 557
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/0/AUDIO_0002_0000_OGG_0001_6BFC29004D1FA483642D189E47992F12.udd" 558
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/AUDIO_0002_0000_OGG_0001_03C224004A3D8008A36FDB867922A776.udd" 559
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/AUDIO_0002_0000_OGG_0001_F4F9CC10453C452370A97D80844F31DF.udd" 560
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__CF62C13607AEDD53B47E6D5C2CB4AB000CC3E84D.udd" 561
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/AUDIO_0002_0000_OGG_0001_3F37435A46AFAE0A217D94BAE4C5C04F.udd" 562
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/9/AUDIO_0002_0000_OGG_0001_2D8EDBDE4BFA119320AD9DAC9F605E6B.udd" 563
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/6/AUDIO_0002_0000_OGG_0001_F490DA1645D8E04BABD5A79C61421B49.udd" 564
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/5/AUDIO_0002_0000_OGG_0001_8BAF41A1440790EA1DD4D6BB02571BC8.udd" 565
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/3/AUDIO_0002_0000_OGG_0001_E0B036F44145A20CDB82CC9648278FC8.udd" 566
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUFD33FE5__C2C622B38ABBA3C11A95BF88E8E39F1BC54C8C7E.udd" 567
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_59__AD623814AF259E289C40537F657F97A3DB03F5C0.udd" 568
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1FA6817844E84__094C6B83C5D2BEF3FDE90DA545F3556537470FE9.udd" 569
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_5D__FD85B2A498C7A37017167CD5991C2D1EE2729B46.udd" 570
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_8303453B4F580__1871E665FED6BC051DF402C5C2EB2E3B8E8C8F44.udd" 571
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/4/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF9A5FFD__E8D7747FB70EFC5899657B80DDFD7CBC067EACF2.udd" 572
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF9A5FFD__98EDB311A58668CB46B01C5A8137AF52E3A30B09.udd" 573
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUFB6E2EB__D544078D64DC2D033838BC7096E615D8A00DD227.udd" 574
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_7B__1DF4D94DE3080F9313D101878AB08CCB92469DE0.udd" 575
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6C546D314557B__2627C4AB5CFB56D9A9B0FBDFEA57248902C20452.udd" 576
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_E7__323B9208401E52852B9B187F6BDDC266D48607A5.udd" 577
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_53__9CA7603BB52DD2BF242CA313211CE66CAE33B441.udd" 578
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3EDE120D4696C__C5AA8B2C9A20805A0039C8B14C336F9C59811B31.udd" 579
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_35__062AE4C2CDD8C389ADCBEC8E10F18F620ECE020A.udd" 580
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_BBA5C60941A69__71E892989F86149BA2F3A55BC9479A0BDCA897A0.udd" 581
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_29__4529DA511BA7AFC5E8907382C749E95F14A6B4D5.udd" 582
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_9DF76D8B4A560__A00842643D56BA68AEC63521F2F81A25E71E82B8.udd" 583
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_7A__CDEA074D7E8F1EE75378D39684B6024C07CFE093.udd" 584
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4487AA8B43DB0__09C49ACDAE53F3B2F1D985B5D4806BF2FBAAC70B.udd" 585
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_46__CE48EDABB2CAF0D0F259043A251E2D5AD0F85990.udd" 586
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_7545E0F546663__0522AA9B7B5728CA8F1BA2CE0B14227B2233B218.udd" 587
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/7/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_F5__E9E5FEC933AB0B5B9B6E917D3B4F63DBDC5C91C1.udd" 588
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_50CA02C44D23F__201EE83D2B58FB079936C2218DADF6076C37441D.udd" 589
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_07__D011901C37AF11D9FF85D6126A047C5AF2A80523.udd" 590
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_DC77AFF440F0F__A866755A5F4B8E295AB563B36249A583875AA49E.udd" 591
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_AA__02E84D7B4A3E662993D33B87997CDC3DC2A7C6F7.udd" 592
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4EABAAB84A5D4__4EBD2B1C70BB89874A079DE2A71828400D432720.udd" 593
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_2B__4533E30AB875164F43975D8641FB90C92AB9E645.udd" 594
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_895DDE004C7E6__6BD3B3BB0467525C90560855679771AA05E1A217.udd" 595
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_E7__62314F00A2177EFB8E3CDB8545FFEA7AB6BAAA29.udd" 596
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_96__F60A7A687C4AEA5006C8A2A861337088469D4627.udd" 597
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_8168E14645B65__31966F3C9E09D206369E57A6D2E07515FA76ACAC.udd" 598
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_B8CB77CD47EADBDC29B2F5BC61DF46CC__1_0_13075_0.udd" 599
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2835A10A48F305FFDCD2E39FE2F2ECD6__1_0_13075_0.udd" 600
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 601
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 602
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_Y.uasset" 603
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_24__C4B8937ECCFFA901E7B3D13B09A2DB9C753CF348.udd" 604
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_B3EF116545193__8C45453D0596CBD767583F65DFEDA01D2A726C00.udd" 605
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_turn.uasset" 606
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_9C__D6EAE171E2BBD677B187AEBE3FF11D5577862859.udd" 607
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_F045C68F4FE70__3C96EFD0F2CA243387964FB36572B2C0A886CA7A.udd" 608
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_T.uasset" 609
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_1F__BA91848725BEFFCA8B1E1557DB8C6E4B2B7F0EFE.udd" 610
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E6D77F614E655__F6835BD7413BB74F11290667EBE689A0317B7EAE.udd" 611
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_chamber_deadend.uasset" 612
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_0B__8A265EB75CD5C2EE93B5A53265EBEA4E39608EF1.udd" 613
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_ABDCC49F40204__EA4AE7A18A6375FC68B3152832BC81129FABF016.udd" 614
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_chamber_2.uasset" 615
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_C0__FDF3E74C8AB3CE961C43420A35F83F2E1035EE43.udd" 616
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4CDF06244F0FE__D01B67C3EC2AC6DE7C4C8F86F634B2E83AC3223F.udd" 617
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_chamber_1.uasset" 618
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/7/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_D5__73CFA803659E169163B6166A8C45095F1F2B8204.udd" 619
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_DF1789E845C80__5A990BDA0A302024F31BB6F4B93EFFA13609DF17.udd" 620
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_no_leaves_3.uasset" 621
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_22__D5AB5F65CF1E5B6EA3C5085F546B121617B4E4C9.udd" 622
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6C9E1D554DA48__6CF6561C979252CD65C626AA59C885A912AC3A30.udd" 623
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_no_leaves_2.uasset" 624
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_C3__6B6C08C25E76FF3018A780A58745DE8371912E57.udd" 625
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_CCD6EEAF4C4D5__945F2A5366F7AA32B294AB4BB722EE4E9F58534A.udd" 626
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_no_leaves.uasset" 627
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_F8__BB5CEA18A0C4E99DD1CA0BFCA8CF103864D49BF1.udd" 628
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_FA6A8AA145AAF__474268EE5D1B2D450BBA3D7FFA74D5EE9453BCEA.udd" 629
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/ThreeStones01.uasset" 630
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/7/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_05__D96840847558BD9D462F803475D59A2A29AC1279.udd" 631
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1ABD267646766__0662D879F4619A8893447622CAE3BA90BA502759.udd" 632
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/Stone03.uasset" 633
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_0C__E117D893C40FA23FF19BB688F08FAF3A370C10EB.udd" 634
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3B48040F4E1E2__8A33A7BB66A2F5AD399EB2CED011E8B0568CC9FD.udd" 635
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SquareRock01.uasset" 636
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_9C__3810E4DBAD8D4F160E9B66BFB1DC494A263C5C31.udd" 637
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_658B8700436E5__2C5E25246B4D551920AD66AD38F06477047C29EF.udd" 638
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_Rock_01.uasset" 639
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_0F__961A591AC42359D8B5A0ED6509085DEEC1DCF2D7.udd" 640
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E4296EE04C9CE__72E59D8AF252F14D31E62E239C622CA43494E33A.udd" 641
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_RockGravel_Foliage.uasset" 642
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_CD__711CBD308BA0F8B4CD95150A5871E4CA9DF46F00.udd" 643
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_PineTree.uasset" 644
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_82__D697524B372E5EC54680556302F377B5E18BDCDC.udd" 645
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_BE64CACE47EFA__B6350AF9E07F6A9E42F56086C667C3648672A9DF.udd" 646
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_HangingIce03.uasset" 647
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_82__EAE984970D35E1F65E859A41AB3D8697B5F2F123.udd" 648
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_30956CF544721__9C0C207629BE7700355DBBEE53706F369B00FA25.udd" 649
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/slanted_rock.uasset" 650
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_49__32CEA22ED10F5E8A7C8EFCCFD61CC21D2EA06318.udd" 651
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E59210B14E22D__922411D9FAC8C01C650B28BF96D78E7A8CE8E88E.udd" 652
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_waterfall.uasset" 653
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_EA__BCD29BCD0625AD1434AD449D01A684B28CF052D0.udd" 654
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_67E41FBD45AA7__ABD529CF2654D51E403DB45E2DF16EE92DCCCBF9.udd" 655
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stalagmite_2.uasset" 656
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_3E__2F54D39D01EE4F71018833CDCCC209BDE1BE2FEC.udd" 657
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1C73CF404E9D2__96FF15D9A812080E9420DF21F6A255EDEB51B501.udd" 658
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stalagmite.uasset" 659
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_60__AC859C70069E6B2CD5A8BA3DC84547F14FFF5817.udd" 660
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6BD30CF440CE0__F290EF333A21EF0C3DCC88DD1309D1F5342C292B.udd" 661
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stack_3.uasset" 662
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_22__D6269D39F697CBF3892824D14C6DEFE8296ACD36.udd" 663
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_B8D1D3104575D__E64B3C530381C7A7069860CF17E977D4C83B9CA6.udd" 664
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stack_2.uasset" 665
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_1C__9844CD5A4BDE2DDC206CF89AE1A148FFFDE5B30C.udd" 666
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_600206A14D08F__D150DFABBDC9C7359C5A7D7686312142178F4B73.udd" 667
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stack.uasset" 668
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_15__7728BB4EAC6F384D341864F2CB1E0828FCF78F4C.udd" 669
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_409348544F6D6__4501DCECA813370B6C50DE4086C2771813AF3F06.udd" 670
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_rubble_2.uasset" 671
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_46__56691641CCF91024B4C2F0F804A2B27E111E862A.udd" 672
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_AA7994344779C__B8E19B022AE6F6DD3432822814721D41F5933066.udd" 673
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_rubble.uasset" 674
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_34__F88973FC53FDF87EC7E9193316DE480CF9A4CB76.udd" 675
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_C49D3D464C3D4__DC5C75852078315D765C90AA4D193F07F5F5B2D8.udd" 676
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_pillar_2.uasset" 677
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_01__B7E6785DAF642BDAAFB6F500978A1ECE97524B9A.udd" 678
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1DC40ABE4A17A__1911A438BD6E9CBEF1399495C84195D2F07E9909.udd" 679
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_pillars_3.uasset" 680
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_B6__27F1EF4199F2063C3C6A3541DDAC8425B7ECC17E.udd" 681
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_0810A8864EC21__BE580409803A173CDBED043C39ABE319C2A326AE.udd" 682
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_pillars.uasset" 683
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_2F__57BEABC6CDC769EDE06A5BFAC098DDA95FF1CA41.udd" 684
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D1FBF43C4CBE0__3249209A310C024E8AFFDFCC15370AAF5A4B514E.udd" 685
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_pile.uasset" 686
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_71__90D48E8768507377726E245E1E8856E80511EF6F.udd" 687
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_AD3A6C2143223__C67995B6568BFE52405F4572D8028BCCF1D9B2BE.udd" 688
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_face_2.uasset" 689
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_45__D6B96EDB5DFE226B5E03B7D8F2022CFF00B655F6.udd" 690
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_001871B64170A__5919EB4FAD8255299AA8FD51CE7125C7F2227360.udd" 691
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_face.uasset" 692
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_54__BD565C458EEF019748565CE77A80EF8CD68314B5.udd" 693
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3F0393AE46D9B__3E72A09F6057BA21C7DE0CEE3DA5577CC138B581.udd" 694
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock.uasset" 695
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_AE__C82A70849D5C127C0FDE0430E69D5560C34E77A7.udd" 696
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_63ECCE6E425F8__79DE405EEEDDC25C03DEED77C36C4FEFE4AABA57.udd" 697
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/pineTreeLOD2.uasset" 698
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_6C__29DE7950220188E0FF2CC35FA191CEED834CD9A4.udd" 699
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3B072E0E46630__7730E413B9D17005983C3F75107FEE1359C7C8F1.udd" 700
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/overrock.uasset" 701
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_92__98879DEB534619D9FF73814FF4A49D2268072FA0.udd" 702
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2E44D35347D15__B22535A42C958221A8860DB38EBC87BA284FBA4B.udd" 703
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/landscape_only.uasset" 704
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoWorldObject2Sided.uasset" 705
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF818C25__1C1FE3E81B07CA7316808CB8D6069110EC889317.udd" 706
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_77__F2DE23C494B56F4D6C8FA0AFA9BC2E12DD2261DC.udd" 707
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/landscape.uasset" 708
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_1B__A7B6BFDB19E4C590B45B9770F9BC166980F45A1A.udd" 709
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/fern_3.uasset" 710
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_FD__F4932A2D138B7EA1EF3666B45FF11AE6BE091A4F.udd" 711
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_80F854D041A74__4094B568BF81F96C82611B43B47EEBE0147ED10E.udd" 712
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/fern_2.uasset" 713
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_D5__8756CB2C94B9A20FDDDB775265B53633F6338FB8.udd" 714
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_FE613E2D4392E__616087CB88332BCA74EE95D6FC111EFA8B29FA1E.udd" 715
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/fern_1.uasset" 716
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_CE__542026B9C97121DA6F9DD0EBF6F87F4060255E3B.udd" 717
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1C79BA444B537__77D6E3882DDCC76205EE95C6AE55F5E96F6CE90F.udd" 718
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/DownPine.uasset" 719
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_CD__754792FC7028CABE9A41219A2D7ABBB973671A50.udd" 720
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_FAAABDDF4C8B4__ADB0DF2DA95962CC59E40486C65209C65D5AD8CB.udd" 721
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/cave_fern.uasset" 722
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_AC__28D09D076AFCBC144E4417818219ECAEF0BED32B.udd" 723
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_BF4280B147A54__2343D43CDB51FF507F43936B1B09BC8E3A68E4F0.udd" 724
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/Broadleaf_Mobile1.uasset" 725
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/Broadleaf_Mobile.uasset" 726
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_B5__C1D128C587A66C167CCDFA45A8DEBA1B306D94C6.udd" 727
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4933CA8A40DDD__D0662FCCBAC15B6BFB6993252BF50687319ECE1D.udd" 728
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/blocky_rock.uasset" 729
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_CD__44DE77067A83BE649CD807FEBF6B6D91C99ABF4C.udd" 730
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_25AB2673442C6__4F950EF00F8A8010251685903E3DB5B16DC78AF7.udd" 731
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_Text.uasset" 732
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF87EAB0__EC2B971667A893535A8F535456833F08C0144483.udd" 733
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_Emissive.uasset" 734
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUFBAA5C5__DBB689D1F86A60101FD45708DDC9255EC10B8963.udd" 735
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoMasked.uasset" 736
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF7FA537__66229A1175BED612263DC56F7BF2105F6BD89ADF.udd" 737
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoLandscapeTest.uasset" 738
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUFE3E2C1__64D4A2C12C7EE670B9E45194FA51A96F342668A6.udd" 739
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoDev.uasset" 740
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF6C3883__33D8A6DD271362E73C4D7CB6D9EDC2C958A12457.udd" 741
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_TestDirectionRotation.uasset" 742
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Wings_2.uasset" 743
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/0/AUDIO_0002_0000_OGG_0001_5897043D413FC78EC239188777A3B135.udd" 744
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Crunch_4.uasset" 745
-"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/AUDIO_0002_0000_OGG_0001_12BAB5F84406DBAC565013AAA6B88E42.udd" 746
-"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/FirstPersonOverview.uasset" 747
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_FDD461EC4EDF5F99C659709B7A42__4E3AAB2EA9951FEE3430D43E59AFB1F408D259A5.udd" 359
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_FDD461EC4EDF5F99C659709B7A42__750BA6E590E4AC4A19C9A06BF0A1FBEC4BA544DB.udd" 360
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_FDD461EC4EDF5F99C659709B7A42__A5AD5E3D53C1B8647475B2EAAA805B16AEAD05EB.udd" 361
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_FDD461EC4EDF5F99C659709B7A42__51CAC9C99E459A54FC8EE38F60F7D1FBA0CD9E51.udd" 362
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_565E0359430950FA252A118AF852__1B21D31DACC19D3F8DC1783F579261E3DEA12CC2.udd" 363
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_B21C1AFF42ACD5ADC8C382B3A090__FFAFFED93CD1C56F0C5BC34E1ADC4339A16693D6.udd" 364
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_565E0359430950FA252A118AF852__4F71958442535605B9A53FD2ABF377C94B1A6AAE.udd" 365
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_B21C1AFF42ACD5ADC8C382B3A090__C11BFD36703F2DBEC491DB2095464F7618A17C90.udd" 366
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_565E0359430950FA252A118AF852__9767BDE1805181DCA893E439E6650421CF2AC97D.udd" 367
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_B21C1AFF42ACD5ADC8C382B3A090__BB260993D9FB85414E10CC06D2702BB80C0E8397.udd" 368
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_B21C1AFF42ACD5ADC8C382B3A090__B5B5FC7C579BADC4D834665D18EB5089316A13A3.udd" 369
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_B21C1AFF42ACD5ADC8C382B3A090__342096D5F66A041359C377F3A05C3FEBE5618192.udd" 370
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C45F0F7D439FAD52041B1EBC5A8A__446646A040AA02D3861AC6D628351A97E1C5DA02.udd" 371
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_ETC2_RGB_15564967414184874DBCB89C44D5__D31B027C88AA5C413F5F798B1A51BD64EC624FE7.udd" 372
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_ETC2_RGB_15564967414184874DBCB89C44D5__21CA2A789D0701A5E5AD54696221EED62B234305.udd" 373
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 374
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 375
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 376
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 377
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 378
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 379
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 380
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_55809E694EE7DB292235CC917A5C__476EC8D1C493B682199BEB3AAEB4817205AC1E6B.udd" 381
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 382
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_55809E694EE7DB292235CC917A5C__1255D6CE39EAB87029780F450B963C7128E18399.udd" 383
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_55809E694EE7DB292235CC917A5C__FDEA0CC780928B511075D85837BF8AD1ADFFA5CE.udd" 384
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_7BC0404946D77A8C093A10AE0677__6A583C0AFCAD705B59B75BCCD98C2C1EF5442BF0.udd" 385
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_7BC0404946D77A8C093A10AE0677__E498F8D9F973E5721A7FDFBF8A8D39EEF491A39F.udd" 386
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 387
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 388
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 389
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 390
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 391
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 392
+"../../../Engine/Content/EngineResources/Black.uasset" 393
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_1EC0B18B47E75959952584B5D8D9__01A92E45830E2B662BBF4E41544ED321F27BEEF9.udd" 394
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 395
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_3D7D3365419CADDBF5E531B12CF1__F0E70271F37BCBBADD8479E0483F964C786756F4.udd" 396
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 397
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_3CAC1F094FB87A98E53D7D8A2464__F900A643A0CAD3BD59CAE759C68DEE57CC4A4193.udd" 398
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 399
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_33CBEF834D7D60ED9D58E5940B7B__11D4B0360B0C8D50D0CC08FFCFBA672A22101269.udd" 400
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 401
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_CBF5B13548AB62E6A9ADA387D1FE__9D4F9D5C45AE84CC194EB2CBB3C5826EE3F8771A.udd" 402
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 403
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_E38B68B34F759D23C6E5CD925E4D__180C1EAF52D91E63AD04E333825D47813339ABB2.udd" 404
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 405
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_E55F8197440DD2855E7F4D9816C8__B0227D8FB50C90E3615BC0129C805A58B3609303.udd" 406
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 407
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_A6C0C4B74D09BE1A7E2C31B7CA77__AE51344B0F9BAD1E32FE2C6A65A89AD6D5997891.udd" 408
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 409
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_7D98C11E41884B4A67A497A07B02__E359B8A778338EA8BF03A8F7ED9F2487DD85C9DE.udd" 410
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 411
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_74A80EB64112E46096AE17A812C2__47D205C37CA154AA658D7B21FD2C8773F45A8FBB.udd" 412
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 413
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_264ABDF14257816FFA9477A6F6A1__7E7500B43AECC656A99C3B54E76E78FC27EA5EBF.udd" 414
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 415
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_025102BB43BBEAC3F07578891938__FC1DF2157D4C1CFF472CCC371D8207EA63BB04C8.udd" 416
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 417
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C55865344733442FBAD7D29E0B65__364279EE723F4CC6DC8A5E68A2F81631732D6476.udd" 418
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 419
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_6A6029554EC6CEDCFFC9E0836D46__3F787A4154BB01599CF88354B7E1971E03BBCDDB.udd" 420
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 421
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_ETC2_RGB_C349D2FA2A30FC1134357D3272F2__B5887663D30CFF6C15CEA1E3025B9AB787B0EDEC.udd" 422
+"../../../Engine/Content/EngineSounds/Master.uasset" 423
+"../../../Engine/Content/EngineSounds/Music.uasset" 424
+"../../../Engine/Content/EngineSounds/SFX.uasset" 425
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 426
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 427
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 428
+"../../../Engine/Content/EngineSounds/Voice.uasset" 429
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 430
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 431
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 432
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 433
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 434
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 435
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 436
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 437
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 438
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 439
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 440
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 441
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_584A79B6465982423406428F0D77__8A16537EEAB2641ECE3A4F2243DF3DEB4EB49815.udd" 442
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_584A79B6465982423406428F0D77__9342C326E4F7442ECAF8E0E51E41B4555DF7C7FB.udd" 443
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 444
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 445
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 446
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/FirstPersonCharacter.uasset" 447
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Character/FirstPersonAnimBlueprint.uasset" 448
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonIdle.uasset" 449
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Character/FirstPersonSkeleton.uasset" 450
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 451
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonJumpEnd.uasset" 452
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonJumpLoop.uasset" 453
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonJumpStart.uasset" 454
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonRun.uasset" 455
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 456
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 457
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Animations/FirstPersonFire.uasset" 458
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/FirstPersonProjectile.uasset" 459
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 460
+"../../../Engine/Content/TemplateResources/MI_Template_BaseOrange.uasset" 461
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 462
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 463
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Character/FirstPersonSkeletalMesh.uasset" 464
+"../../../Engine/Content/TemplateResources/MI_Template_BaseBlue.uasset" 465
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 466
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_90C6324A4AF82591AE2162AC69D8__3B24FE1D254E8700F18D1DB686B127F3E515B5B5.udd" 467
+"C:/Users/Luke/AppData/Local/UnrealEngine/4.7/Saved/Config/Windows/SourceControlSettings.ini" 468
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 469
+"C:/Users/Luke/Documents/Unreal Projects/Echo/Saved/Config/Windows/SourceControlSettings.ini" 470
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 471
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 472
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 473
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 474
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_5075C5404C9665C57F66B49F2C5D__A928994B8938C6DB3AD05F8C25460FE00D395386.udd" 475
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_5075C5404C9665C57F66B49F2C5D__3A1C6776C944CC25D8E2DB7875205C19A1014486.udd" 476
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_5075C5404C9665C57F66B49F2C5D__2924B2B377D1196E8123A7CECA4F2B06EC16B230.udd" 477
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_5075C5404C9665C57F66B49F2C5D__AFF34924C6AFF6AC77DB8CEEAAB2604E2017332D.udd" 478
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 479
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 480
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 481
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 482
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 483
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_B1F6A23D46761DA1743FBE984F9E__1BF9B395FB1DC51E3FA664BCFC16E68837F59E84.udd" 484
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 485
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 486
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_95D01D314436990422EF30A4E4FA__B880B6F1FAE46B49C571E0C5F8F16D1A167400E8.udd" 487
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 488
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_95D01D314436990422EF30A4E4FA__1EB27FAD7025720AF3AB4516D69E1ABF3E5CA1E8.udd" 489
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 490
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Intermediate/CachedAssetRegistry.bin" 491
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Maps/MobileWorld.umap" 492
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/MF_EchoHighlightShaderMobile.uasset" 493
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/MF_EchoTreeShader.uasset" 494
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoLandscapeObject.uasset" 495
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoTree.uasset" 496
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoWorldObject.uasset" 497
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/landscape_caves_final.uasset" 498
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/landscape_final.uasset" 499
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/landscape_final_collision.uasset" 500
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 501
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 502
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 503
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 504
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 505
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_8EDAF7A54E378800FEB217863433__EF844CD96BCD8DD3CD322C340901837CE32294B9.udd" 506
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 507
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C9D41DBE4C754F8B430E7DBADCD4__FBC3F09CA1A90DBB977C19E11F289F6DA8E49284.udd" 508
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C9D41DBE4C754F8B430E7DBADCD4__47881DE908421552277B42C3471C134DB38B35E7.udd" 509
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 510
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C9D41DBE4C754F8B430E7DBADCD4__9398548B219CA163F51FBD66F82176FB42C878DC.udd" 511
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_F562DDF94D8D885AE92078A9DD77__9B99B77EBFCB5FCC0D965B9310B18285F1DD4F72.udd" 512
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_F562DDF94D8D885AE92078A9DD77__8F3D4E33266EFF7058EA0F5458F2DB999EF18D1A.udd" 513
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 514
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_F562DDF94D8D885AE92078A9DD77__F1C2C5B52830D531E492A366CDA3F03966A50F54.udd" 515
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 516
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C200B7694C3FE53EBCE97592F5F4__24356533FF26DF1C4B77B90C0BE074BE60CDB93D.udd" 517
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_3F3B1DD44FE006226A690596DBDD__CDDF8231DBC7CA950E7B4CE92521AAAD3C48C261.udd" 518
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_3F3B1DD44FE006226A690596DBDD__AEC80EC600DD3B4D042B934602EB4A05F8D19864.udd" 519
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 520
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_C49FDA8C4EFE04B87EBA5CB5A57D__6C384D0E34CB7714F51B78E788A07B1275909C23.udd" 521
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 522
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_80A9E59646847B4846ED6DAF42DF__1EA1B961E7D02F34F47CB3F0542A01A4F1F38F75.udd" 523
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_80A9E59646847B4846ED6DAF42DF__2FFB5567760EAF72FA82B851F0323C4F672A3D96.udd" 524
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 525
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_D5542AFE4886708885DF42B1BE8F__D59AF11BB152EE04C05F36ECE6FCB0323B09FA86.udd" 526
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 527
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_D5542AFE4886708885DF42B1BE8F__8705DA1E1392177A60737C98C00498A42845BC46.udd" 528
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_7BBBF743419EE004ACC16E9959BC__C48076D302354E388B255563AFD03D236084E5D1.udd" 529
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 530
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 531
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_5FF2868842E6DED8A4C0CB821719__B7A0742534CBF48BA77C2C55467606F7BE0BEDAF.udd" 532
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 533
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 534
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_2E1EE3B14D43A62B84881B8F5AAD__3BECB9B0D3CD725CB38D9A368C01F1F3A307E19A.udd" 535
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 536
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 537
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_9F8FBEF84A1997E30FD384955E3D__2735FA59C3AF74B3A6A6AD185CDDDC28525B3322.udd" 538
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_9F8FBEF84A1997E30FD384955E3D__F58F07EC1676E628DA89B19509A7C41661EFFBDC.udd" 539
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_9F8FBEF84A1997E30FD384955E3D__CC3C73A229BD7C4AD7CC4C0ABCC291A0EF2ADF2A.udd" 540
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_9F8FBEF84A1997E30FD384955E3D__DD6C3F424C5745AB0E2D5FB169978EDA38A4EB16.udd" 541
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_119D9D384F916FB5612DEB85B012__C5062709AC6B3F16557E9761D47082FFDC37C5C2.udd" 542
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_119D9D384F916FB5612DEB85B012__D412CBDCCE74F0DF51B99CA03CD1580221A67BC6.udd" 543
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_119D9D384F916FB5612DEB85B012__1B3BB47DC55C45944A7B64985401909895628DB8.udd" 544
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_119D9D384F916FB5612DEB85B012__022DE17DC662685608BF5F0A91B181BE829D9CE0.udd" 545
+"../../../Engine/Content/Maps/Entry.umap" 546
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 547
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__D7571FED08F115FCACABD05361289305AE5B1AB4.udd" 548
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__551DE16F2D262FC6F555740F54750200FBADAB3B.udd" 549
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__F7C205B2FBA3A7547B78E328D349915C72BCEB8F.udd" 550
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__A79723FC70D667EA9605520505516D47A27EFA50.udd" 551
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_122003924E39A572EF68B5BAC8A9__989EF2BED8D424D26F7239496D065D847FB1A5D6.udd" 552
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BatGameMode.uasset" 553
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_FlyingBatPawn.uasset" 554
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_EchoSphere.uasset" 555
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BPI_EchoVisible.uasset" 556
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/MPC_EchoLandscape.uasset" 557
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Crunch5.uasset" 558
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/SC_Music.uasset" 559
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Music_Bed_2.uasset" 560
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Wind_Left.uasset" 561
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Wind_Right.uasset" 562
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/SC_SonarBlip.uasset" 563
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_1.uasset" 564
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_3.uasset" 565
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_4.uasset" 566
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_5.uasset" 567
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Sonar_Blip_6.uasset" 568
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Wiff_2.uasset" 569
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_Prey.uasset" 570
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_StaticMoth.uasset" 571
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/moth.uasset" 572
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_Emissive2Sided.uasset" 573
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/moth_down.uasset" 574
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_PreyGenerator.uasset" 575
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple.uasset" 576
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 577
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 578
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 579
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 580
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 581
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 582
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 583
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/MF_EchoShaderMobile.uasset" 584
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/MF_NearWallGradient.uasset" 585
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_Emissive.uasset" 586
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/Broadleaf_Mobile_Atlas_Tex.uasset" 587
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/orb_of_rock.uasset" 588
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/pineTreeLOD1.uasset" 589
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoTreeOpaque.uasset" 590
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/plant_dangles.uasset" 591
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_spike.uasset" 592
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rocks_foliage.uasset" 593
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_Boulder02.uasset" 594
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_Cliffs.uasset" 595
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_HangingIce02.uasset" 596
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_RockLine.uasset" 597
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_pine.uasset" 598
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_sequia.uasset" 599
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__FCC65084A560AB47CDD367721030910D32FFA75D.udd" 600
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__CF62C13607AEDD53B47E6D5C2CB4AB000CC3E84D.udd" 601
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__0DC8FAB449244C250C8B6F18E953E830B6F65DD7.udd" 602
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__077E5653954699E02093DAA57C627C1D3C5D783C.udd" 603
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__888E4A5C98A2D951AEED305D77AEFDF188E317FC.udd" 604
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTOETC2_DC5B00D1483318086BC9AB9C5128__4A894C67E9E5A26FA56AEDF9D9FD1EA3ADF82569.udd" 605
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/4/AUDIO_0002_0000_OGG_0001_C22ECFC343B0A0FEB31F6B809776B683.udd" 606
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/AUDIO_0002_0000_OGG_0001_AF5D326043927D3F55C48285679849BF.udd" 607
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/0/AUDIO_0002_0000_OGG_0001_6BFC29004D1FA483642D189E47992F12.udd" 608
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/AUDIO_0002_0000_OGG_0001_03C224004A3D8008A36FDB867922A776.udd" 609
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/AUDIO_0002_0000_OGG_0001_F4F9CC10453C452370A97D80844F31DF.udd" 610
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/AUDIO_0002_0000_OGG_0001_3F37435A46AFAE0A217D94BAE4C5C04F.udd" 611
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/9/AUDIO_0002_0000_OGG_0001_2D8EDBDE4BFA119320AD9DAC9F605E6B.udd" 612
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/6/AUDIO_0002_0000_OGG_0001_F490DA1645D8E04BABD5A79C61421B49.udd" 613
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/5/AUDIO_0002_0000_OGG_0001_8BAF41A1440790EA1DD4D6BB02571BC8.udd" 614
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/3/AUDIO_0002_0000_OGG_0001_E0B036F44145A20CDB82CC9648278FC8.udd" 615
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUFD33FE5__C2C622B38ABBA3C11A95BF88E8E39F1BC54C8C7E.udd" 616
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_59__AD623814AF259E289C40537F657F97A3DB03F5C0.udd" 617
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1FA6817844E84__094C6B83C5D2BEF3FDE90DA545F3556537470FE9.udd" 618
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_5D__FD85B2A498C7A37017167CD5991C2D1EE2729B46.udd" 619
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_8303453B4F580__1871E665FED6BC051DF402C5C2EB2E3B8E8C8F44.udd" 620
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_CD__C6BB943635F5132BEBC62E35DE2E7CBD841D4367.udd" 621
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_A3AFF9C745581__20A8CC1892208E5DABD659FDC0FA5114F438AC68.udd" 622
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUFBAA5C5__DBB689D1F86A60101FD45708DDC9255EC10B8963.udd" 623
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_0E__B94D0F749037FAEF0207E6041B27CB0217DAD573.udd" 624
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_BDB404B44C8FE__C613E07763DEF12442868695E6D8297CB2C91FFE.udd" 625
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_83__998261123653336FB4D6FF5C73B1109927B7AE1E.udd" 626
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_FE43688C43854__D331A4520DDAE36E6EC836D3C8AE47896F910DBA.udd" 627
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_53__9CA7603BB52DD2BF242CA313211CE66CAE33B441.udd" 628
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3EDE120D4696C__C5AA8B2C9A20805A0039C8B14C336F9C59811B31.udd" 629
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_46__CE48EDABB2CAF0D0F259043A251E2D5AD0F85990.udd" 630
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_7545E0F546663__0522AA9B7B5728CA8F1BA2CE0B14227B2233B218.udd" 631
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_29__4529DA511BA7AFC5E8907382C749E95F14A6B4D5.udd" 632
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_9DF76D8B4A560__A00842643D56BA68AEC63521F2F81A25E71E82B8.udd" 633
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_7A__CDEA074D7E8F1EE75378D39684B6024C07CFE093.udd" 634
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4487AA8B43DB0__09C49ACDAE53F3B2F1D985B5D4806BF2FBAAC70B.udd" 635
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_35__062AE4C2CDD8C389ADCBEC8E10F18F620ECE020A.udd" 636
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_BBA5C60941A69__71E892989F86149BA2F3A55BC9479A0BDCA897A0.udd" 637
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/7/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_F5__E9E5FEC933AB0B5B9B6E917D3B4F63DBDC5C91C1.udd" 638
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_50CA02C44D23F__201EE83D2B58FB079936C2218DADF6076C37441D.udd" 639
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_07__D011901C37AF11D9FF85D6126A047C5AF2A80523.udd" 640
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_DC77AFF440F0F__A866755A5F4B8E295AB563B36249A583875AA49E.udd" 641
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_AA__02E84D7B4A3E662993D33B87997CDC3DC2A7C6F7.udd" 642
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4EABAAB84A5D4__4EBD2B1C70BB89874A079DE2A71828400D432720.udd" 643
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_2B__4533E30AB875164F43975D8641FB90C92AB9E645.udd" 644
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_895DDE004C7E6__6BD3B3BB0467525C90560855679771AA05E1A217.udd" 645
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_96__F60A7A687C4AEA5006C8A2A861337088469D4627.udd" 646
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_8168E14645B65__31966F3C9E09D206369E57A6D2E07515FA76ACAC.udd" 647
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_E7__62314F00A2177EFB8E3CDB8545FFEA7AB6BAAA29.udd" 648
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_EFB7CD154914DD290AA116897972EB06__1_0_13075_0.udd" 649
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_8C880D554D48F23D81DD2DB4BA5A8300__1_0_13075_0.udd" 650
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 651
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_07243794431B20C6F413B4866C23487__FB1DD079F9C60EAF9F91DC1D43FCC92F9EE7FB34.udd" 652
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_07243794431B20C6F413B4866C23487__3EEEEE123024DF7B25470C272E63B319E2D9AE7A.udd" 653
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_07243794431B20C6F413B4866C23487__2B8D2376768BE991E7FBD038393394F583E9D024.udd" 654
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_F636D85C4695E4B2AB0D91982CD195F__03819923845A76F2DA27FD29A32FB06A6D25C470.udd" 655
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_F636D85C4695E4B2AB0D91982CD195F__0C2262AD1828CFFCDCE2D014DF74B2B2AE0A7B41.udd" 656
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_FB862C6A42F903989A8777B25791D67__9C71DCCE3E49E1C407AF6BDEFBE703045ACBD69E.udd" 657
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_7CCFC6F54762DF5EBDF8EFAE125DA88__27C5CBB2BC7E090E40BF6646622CEF1569713C4A.udd" 658
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_7CCFC6F54762DF5EBDF8EFAE125DA88__65236184433499A32D5F6BACA9207192D9B97B82.udd" 659
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_7CCFC6F54762DF5EBDF8EFAE125DA88__0B7683F501350923F3247A14D94C6BCCA9F5122B.udd" 660
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_CB625E86492AAFFCB78CBF9D48AA956__71D43353025089BCB96BB82AB993B66AE6C64B9C.udd" 661
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_CB625E86492AAFFCB78CBF9D48AA956__8484A6356E229B879692A3446111DA09F077029E.udd" 662
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_CB625E86492AAFFCB78CBF9D48AA956__1054B7E61A279FA987BCE4444A91B3B3879A37D7.udd" 663
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_C79D28064F0EB72EE169FEA97B01488__D667C6D2591CD4241D4D04DC5E49283242D5BE29.udd" 664
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_C79D28064F0EB72EE169FEA97B01488__47FA9412766D8451A560543418B23151F640B818.udd" 665
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_C79D28064F0EB72EE169FEA97B01488__5EBCF2F202D156C99F2370DD10C8078638BF4428.udd" 666
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_C79D28064F0EB72EE169FEA97B01488__921841FA86D2B96A07C3EF134625E3139DFE399A.udd" 667
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_4C3799D0427D9B9BF5D568A572F70DB__7D3586C3480665AEEBBCD005A472F87DEE51CC72.udd" 668
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_4C3799D0427D9B9BF5D568A572F70DB__488C53617445C2AED05F36581850F5E3F571C254.udd" 669
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_18B72E304CF3EB74D98B99994374A2C__BEE1A516A1B878D1BCFDB545DC8E0FBB59693C30.udd" 670
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_18B72E304CF3EB74D98B99994374A2C__C1F0C3B6A5D226CA6EA04DDA476267B0DCE98D69.udd" 671
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_FA5CAA3B497028F497BA05B9EB025EB__E9143CB2CEA0C06647923D848157F46FF23DB6B4.udd" 672
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_FA5CAA3B497028F497BA05B9EB025EB__B04761BB53782B0C9E9DE9397A0951F962005168.udd" 673
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_494DE7EE4A5446A0471AAD8A3E79ADF__FA8CE80F1C4038546B46EF2171D2CD0557694A53.udd" 674
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_494DE7EE4A5446A0471AAD8A3E79ADF__44FC0BAEF427079A6B599245B07EB3E06688AD58.udd" 675
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_5AFAAC6C4D3E28D2D2C89DB20C0BBCB__E1E6B2B93B5F5A7E0200B0ED7B5E127DDB86CF07.udd" 676
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_5AFAAC6C4D3E28D2D2C89DB20C0BBCB__A5FF27E93AB0B38D84B2FC69225C11A6B64247B6.udd" 677
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_1715C82D435555D193C33BB442F241B__D7C18FF27EBE157C6C58E8500658E842BFB1D96F.udd" 678
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_1715C82D435555D193C33BB442F241B__380A1DBFFF837FF59E618D1159940359307EDCF9.udd" 679
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_A8330B874E7F2D0AA16DCAA056AAB9B__B034D512AD19AE63176EAB5661064C68A58A3F61.udd" 680
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_A8330B874E7F2D0AA16DCAA056AAB9B__F8A84313954C6A6294176559A94623B7A546DBD9.udd" 681
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_CA48CF5B4353B05CB2477FB3D9DCE8A__4BF9BD2A71DE9970D6EF6CE252A884B3BA59EA87.udd" 682
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_CA48CF5B4353B05CB2477FB3D9DCE8A__33BCA2CF8DD25A85FEEB3EE6AAA39EF30BF90965.udd" 683
+"C:/Users/Luke/Documents/Unreal Projects/Echo/Intermediate/Shaders/WorkingDirectory/80100/0/WorkerOutputOnly.out" 684
+"C:/Users/Luke/Documents/Unreal Projects/Echo/Intermediate/Shaders/WorkingDirectory/80100/2/WorkerOutputOnly.out" 685
+"C:/Users/Luke/Documents/Unreal Projects/Echo/Intermediate/Shaders/WorkingDirectory/80100/1/WorkerOutputOnly.out" 686
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_Y.uasset" 687
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_24__C4B8937ECCFFA901E7B3D13B09A2DB9C753CF348.udd" 688
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_B3EF116545193__8C45453D0596CBD767583F65DFEDA01D2A726C00.udd" 689
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_turn.uasset" 690
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_9C__D6EAE171E2BBD677B187AEBE3FF11D5577862859.udd" 691
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_F045C68F4FE70__3C96EFD0F2CA243387964FB36572B2C0A886CA7A.udd" 692
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_T.uasset" 693
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_1F__BA91848725BEFFCA8B1E1557DB8C6E4B2B7F0EFE.udd" 694
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E6D77F614E655__F6835BD7413BB74F11290667EBE689A0317B7EAE.udd" 695
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_chamber_deadend.uasset" 696
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_0B__8A265EB75CD5C2EE93B5A53265EBEA4E39608EF1.udd" 697
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_ABDCC49F40204__EA4AE7A18A6375FC68B3152832BC81129FABF016.udd" 698
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_chamber_2.uasset" 699
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_C0__FDF3E74C8AB3CE961C43420A35F83F2E1035EE43.udd" 700
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4CDF06244F0FE__D01B67C3EC2AC6DE7C4C8F86F634B2E83AC3223F.udd" 701
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/CaveParts/cave_chamber_1.uasset" 702
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF3E6695__0E5AD7A016A9762F7424F77D20086DA25C2A269B.udd" 703
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/7/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_D5__73CFA803659E169163B6166A8C45095F1F2B8204.udd" 704
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_DF1789E845C80__5A990BDA0A302024F31BB6F4B93EFFA13609DF17.udd" 705
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_no_leaves_3.uasset" 706
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_22__D5AB5F65CF1E5B6EA3C5085F546B121617B4E4C9.udd" 707
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6C9E1D554DA48__6CF6561C979252CD65C626AA59C885A912AC3A30.udd" 708
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_no_leaves_2.uasset" 709
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_C3__6B6C08C25E76FF3018A780A58745DE8371912E57.udd" 710
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_CCD6EEAF4C4D5__945F2A5366F7AA32B294AB4BB722EE4E9F58534A.udd" 711
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/tree_no_leaves.uasset" 712
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_F8__BB5CEA18A0C4E99DD1CA0BFCA8CF103864D49BF1.udd" 713
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_FA6A8AA145AAF__474268EE5D1B2D450BBA3D7FFA74D5EE9453BCEA.udd" 714
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/ThreeStones01.uasset" 715
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/7/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_05__D96840847558BD9D462F803475D59A2A29AC1279.udd" 716
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1ABD267646766__0662D879F4619A8893447622CAE3BA90BA502759.udd" 717
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/Stone03.uasset" 718
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_0C__E117D893C40FA23FF19BB688F08FAF3A370C10EB.udd" 719
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3B48040F4E1E2__8A33A7BB66A2F5AD399EB2CED011E8B0568CC9FD.udd" 720
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SquareRock01.uasset" 721
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_9C__3810E4DBAD8D4F160E9B66BFB1DC494A263C5C31.udd" 722
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_658B8700436E5__2C5E25246B4D551920AD66AD38F06477047C29EF.udd" 723
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_Rock_01.uasset" 724
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_0F__961A591AC42359D8B5A0ED6509085DEEC1DCF2D7.udd" 725
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E4296EE04C9CE__72E59D8AF252F14D31E62E239C622CA43494E33A.udd" 726
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_RockGravel_Foliage.uasset" 727
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_CD__711CBD308BA0F8B4CD95150A5871E4CA9DF46F00.udd" 728
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_PineTree.uasset" 729
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/5/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_82__D697524B372E5EC54680556302F377B5E18BDCDC.udd" 730
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_BE64CACE47EFA__B6350AF9E07F6A9E42F56086C667C3648672A9DF.udd" 731
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/SM_HangingIce03.uasset" 732
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_82__EAE984970D35E1F65E859A41AB3D8697B5F2F123.udd" 733
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_30956CF544721__9C0C207629BE7700355DBBEE53706F369B00FA25.udd" 734
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/slanted_rock.uasset" 735
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_49__32CEA22ED10F5E8A7C8EFCCFD61CC21D2EA06318.udd" 736
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E59210B14E22D__922411D9FAC8C01C650B28BF96D78E7A8CE8E88E.udd" 737
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_waterfall.uasset" 738
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF93E12C__1F516C78442CC96428D9162DFE496CA419D38781.udd" 739
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_EA__BCD29BCD0625AD1434AD449D01A684B28CF052D0.udd" 740
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_67E41FBD45AA7__ABD529CF2654D51E403DB45E2DF16EE92DCCCBF9.udd" 741
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF93E12C__0AE1DAB454C5C8284A4A91950B2B25A12D1B650D.udd" 742
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stalagmite_2.uasset" 743
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_3E__2F54D39D01EE4F71018833CDCCC209BDE1BE2FEC.udd" 744
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1C73CF404E9D2__96FF15D9A812080E9420DF21F6A255EDEB51B501.udd" 745
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stalagmite.uasset" 746
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_60__AC859C70069E6B2CD5A8BA3DC84547F14FFF5817.udd" 747
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6BD30CF440CE0__F290EF333A21EF0C3DCC88DD1309D1F5342C292B.udd" 748
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stack_3.uasset" 749
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_22__D6269D39F697CBF3892824D14C6DEFE8296ACD36.udd" 750
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_B8D1D3104575D__E64B3C530381C7A7069860CF17E977D4C83B9CA6.udd" 751
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stack_2.uasset" 752
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_1C__9844CD5A4BDE2DDC206CF89AE1A148FFFDE5B30C.udd" 753
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_600206A14D08F__D150DFABBDC9C7359C5A7D7686312142178F4B73.udd" 754
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_stack.uasset" 755
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_15__7728BB4EAC6F384D341864F2CB1E0828FCF78F4C.udd" 756
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_409348544F6D6__4501DCECA813370B6C50DE4086C2771813AF3F06.udd" 757
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_rubble_2.uasset" 758
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_46__56691641CCF91024B4C2F0F804A2B27E111E862A.udd" 759
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_AA7994344779C__B8E19B022AE6F6DD3432822814721D41F5933066.udd" 760
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_rubble.uasset" 761
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_34__F88973FC53FDF87EC7E9193316DE480CF9A4CB76.udd" 762
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_C49D3D464C3D4__DC5C75852078315D765C90AA4D193F07F5F5B2D8.udd" 763
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_pillar_2.uasset" 764
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_01__B7E6785DAF642BDAAFB6F500978A1ECE97524B9A.udd" 765
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1DC40ABE4A17A__1911A438BD6E9CBEF1399495C84195D2F07E9909.udd" 766
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_pillars_3.uasset" 767
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_B6__27F1EF4199F2063C3C6A3541DDAC8425B7ECC17E.udd" 768
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_0810A8864EC21__BE580409803A173CDBED043C39ABE319C2A326AE.udd" 769
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_pillars.uasset" 770
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_2F__57BEABC6CDC769EDE06A5BFAC098DDA95FF1CA41.udd" 771
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D1FBF43C4CBE0__3249209A310C024E8AFFDFCC15370AAF5A4B514E.udd" 772
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_pile.uasset" 773
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/1/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_71__90D48E8768507377726E245E1E8856E80511EF6F.udd" 774
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_AD3A6C2143223__C67995B6568BFE52405F4572D8028BCCF1D9B2BE.udd" 775
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_face_2.uasset" 776
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_45__D6B96EDB5DFE226B5E03B7D8F2022CFF00B655F6.udd" 777
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_001871B64170A__5919EB4FAD8255299AA8FD51CE7125C7F2227360.udd" 778
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock_face.uasset" 779
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_54__BD565C458EEF019748565CE77A80EF8CD68314B5.udd" 780
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3F0393AE46D9B__3E72A09F6057BA21C7DE0CEE3DA5577CC138B581.udd" 781
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/rock.uasset" 782
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/4/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_AE__C82A70849D5C127C0FDE0430E69D5560C34E77A7.udd" 783
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_63ECCE6E425F8__79DE405EEEDDC25C03DEED77C36C4FEFE4AABA57.udd" 784
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/pineTreeLOD2.uasset" 785
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_6C__29DE7950220188E0FF2CC35FA191CEED834CD9A4.udd" 786
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_3B072E0E46630__7730E413B9D17005983C3F75107FEE1359C7C8F1.udd" 787
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/overrock.uasset" 788
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_92__98879DEB534619D9FF73814FF4A49D2268072FA0.udd" 789
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2E44D35347D15__B22535A42C958221A8860DB38EBC87BA284FBA4B.udd" 790
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/fern_3.uasset" 791
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/9/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_FD__F4932A2D138B7EA1EF3666B45FF11AE6BE091A4F.udd" 792
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_80F854D041A74__4094B568BF81F96C82611B43B47EEBE0147ED10E.udd" 793
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/fern_2.uasset" 794
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_D5__8756CB2C94B9A20FDDDB775265B53633F6338FB8.udd" 795
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_FE613E2D4392E__616087CB88332BCA74EE95D6FC111EFA8B29FA1E.udd" 796
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/fern_1.uasset" 797
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/8/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_CE__542026B9C97121DA6F9DD0EBF6F87F4060255E3B.udd" 798
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1C79BA444B537__77D6E3882DDCC76205EE95C6AE55F5E96F6CE90F.udd" 799
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/DownPine.uasset" 800
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/6/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_CD__754792FC7028CABE9A41219A2D7ABBB973671A50.udd" 801
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_FAAABDDF4C8B4__ADB0DF2DA95962CC59E40486C65209C65D5AD8CB.udd" 802
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/cave_fern.uasset" 803
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_AC__28D09D076AFCBC144E4417818219ECAEF0BED32B.udd" 804
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_BF4280B147A54__2343D43CDB51FF507F43936B1B09BC8E3A68E4F0.udd" 805
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/Broadleaf_Mobile1.uasset" 806
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/Broadleaf_Mobile.uasset" 807
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_B5__C1D128C587A66C167CCDFA45A8DEBA1B306D94C6.udd" 808
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4933CA8A40DDD__D0662FCCBAC15B6BFB6993252BF50687319ECE1D.udd" 809
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Meshes/blocky_rock.uasset" 810
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_CD__44DE77067A83BE649CD807FEBF6B6D91C99ABF4C.udd" 811
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_25AB2673442C6__4F950EF00F8A8010251685903E3DB5B16DC78AF7.udd" 812
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_Text.uasset" 813
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF87EAB0__EC2B971667A893535A8F535456833F08C0144483.udd" 814
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoWorldObject2Sided.uasset" 815
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF818C25__1C1FE3E81B07CA7316808CB8D6069110EC889317.udd" 816
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoMasked.uasset" 817
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF7FA537__66229A1175BED612263DC56F7BF2105F6BD89ADF.udd" 818
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Materials/M_EchoDev.uasset" 819
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_ES2_2061__BC5N_DEV_SL_NODBUF6C3883__33D8A6DD271362E73C4D7CB6D9EDC2C958A12457.udd" 820
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Blueprints/BP_TestDirectionRotation.uasset" 821
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Wings_2.uasset" 822
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/0/AUDIO_0002_0000_OGG_0001_5897043D413FC78EC239188777A3B135.udd" 823
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/Audio/Crunch_4.uasset" 824
+"C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/AUDIO_0002_0000_OGG_0001_12BAB5F84406DBAC565013AAA6B88E42.udd" 825
+"../../../../../../Users/Luke/Documents/Unreal Projects/Echo/Content/FirstPerson/FirstPersonOverview.uasset" 826
